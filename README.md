@@ -92,7 +92,7 @@ Use the `BLANK_README.md` to get started.
 
 To install the `BLANK_README.md` file into your project. Open the project directory in your shell and paste the command below:
 
-`curl https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/BLANK_README.md -o ./README.md`
+```curl https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/BLANK_README.md -o ./README.md```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
